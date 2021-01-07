@@ -1,0 +1,2 @@
+//Delete remote branch
+git push origin --delete <nome_da_branch>
